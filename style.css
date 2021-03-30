@@ -545,7 +545,7 @@ footer{
 .footer-right a:hover{background-color:red;}
 
 
-@media (max-width: 600px) {
+@media (max-width: 12000px) {
   .footer-distributed .footer-left, .footer-distributed .footer-right {
     text-align: center;
   }
