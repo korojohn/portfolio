@@ -522,8 +522,8 @@ footer{
 }
 
 .footer-distributed .footer-right {
-  float: right;
-  margin-top: -7px;
+  float:right;
+  margin-top: 7px;
   max-width: 180px;
 }
 
