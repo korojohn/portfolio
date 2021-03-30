@@ -126,7 +126,7 @@ section .title::after{
     font-weight: 500;
     margin-left: 25px;
     transition: color 0.3s ease;
-    font-family:
+    font-family: 'Roboto Slab', serif;
 }
 .navbar .menu li a:hover{
     color: crimson;
@@ -556,5 +556,5 @@ footer{
   .footer-distributed .footer-left p.footer-links {
     line-height: 1.8;
   }
-
+ }
 }
