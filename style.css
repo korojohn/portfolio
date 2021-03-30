@@ -508,6 +508,7 @@ footer{
         background-color:background: rgb(55,55,55);
         display: flex;
         flex-flow: row wrap;
+        height:90px;
     }
     .copyright{
         color:white;
