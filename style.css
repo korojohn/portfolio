@@ -295,7 +295,7 @@ section .title::after{
     width: 100%;
     background: lightgrey;
     position: relative;
-    color:white;
+    color:white
     
 }
 .skills .skills-content .right .line::before{
