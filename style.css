@@ -290,6 +290,12 @@ section .title::after{
     color:white;
     
 }
+    .skills .skills-content .column{
+        width: 80%;
+        margin-bottom: 35px;
+        margin-left:50px
+        
+    }
 .skills .skills-content .right .line{
     height: 5px;
     width: 100%;
