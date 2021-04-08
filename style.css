@@ -287,15 +287,21 @@ section .title::after{
 .skills .skills-content .right span{
       font-weight: 500;
       font-size: 18px;
-    color:white;
+      color:white;
     
 }
-    .skills .skills-content .column{
+.skills .skills-content .column{
+     width: 80%;
+     margin-bottom: 35px;
+     margin-left:50px
+}
+@media (max-width:900px){
+        .skills .skills-content .column{
         width: 80%;
         margin-bottom: 35px;
-        margin-left:50px
-        
-    }
+        margin-left:0px
+        }
+    } 
 .skills .skills-content .right .line{
     height: 5px;
     width: 100%;
